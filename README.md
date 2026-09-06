@@ -5,7 +5,7 @@ ____________________________________________
 Made on C++
 ____________________________________________
 Download Now!
-[![](https://shields.io)](SquareGame1.1.exe)
+[](https://github.com/wolfdark1982-lgtm/SquareGame1.1C-Runtime/raw/refs/heads/main/SquareGame1.1.exe)
 ____________________________________________
 
 
